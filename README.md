@@ -1,5 +1,8 @@
 # Screenbar
-A macOS menubar app for automating screenshots.    
+A macOS menubar app for automating screenshots. 
+
+FORK - This fork was modified to change the filename of the screenshots to include both date and the time instead of just the time.
+
 ![Screenbar menu bar](https://www.screenbar.net/assets/images/screenbar-window.png "Screenbar main")    
 
 ## Features
